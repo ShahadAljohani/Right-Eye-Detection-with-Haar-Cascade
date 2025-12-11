@@ -1,7 +1,5 @@
-# SuT_AI_Task2
-Task 2 - Week 3 (Summer Training)
+# Right-Eye Detection with Haar Cascade
 
-------------
 ## About this task
 A project utilizing OpenCV library to apply a right eye classifier for object detection.
 
@@ -31,10 +29,3 @@ It appeared to correctly detect the owl's right eye, based on the owl's actual (
 - Installed OpenCV library using the terminal
 - Launched VSCode through Anaconda
 - Used the Right Eye classifier as found on the `haarcascade_righteye_2splits.xml` file, Adapted excisting code and edited it to fit the needs of the project found on `RightEye Detector.py` file , and i used an Owl video as an input object for right eye detection.
-
---------------
-References:
-
-- [Right Eye Classifier](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_righteye_2splits.xml)
-- [Original code](https://github.com/GauravSahani1417/OpenCV-Implementaion/blob/master/Car%20detector.py)
-- [Information about OpenCV](https://www.geeksforgeeks.org/python/opencv-python-tutorial/)
